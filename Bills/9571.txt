@@ -1,0 +1,19 @@
+	              Welcome To My Mart
+ Bill Number : 9571
+ Customer Name : asfda
+ Phone Number : sadfa
+ Customer Email : sadf
+ ==========================================
+ Product 			 Qty 	      Price
+ ==========================================
+   Oppo F21 Pro 5G 			 1 	       60999
+   Oppo F21 Pro 5G 			 1 	       60999
+   Oppo F21 Pro 5G 			 1 	       60999
+   Oppo F21 Pro 5G 			 1 	       60999
+   Oppo F21 Pro 5G 			 1 	       60999
+
+ ==========================================
+ Sub Aomunt : 		 Rs.304995.00
+ Tax Aomunt : 		 Rs.243996.00
+ Total Aomunt : 		 Rs.548991.00
+ ==========================================

@@ -1,0 +1,19 @@
+	              Welcome To My Mart
+ Bill Number : 8224
+ Customer Name : fghj
+ Phone Number : ghjf
+ Customer Email : ghj
+ ==========================================
+ Product 			 Qty 	      Price
+ ==========================================
+   Dell XPS 15 			 1 	       479999
+   Dell XPS 15 			 1 	       479999
+   Dell XPS 15 			 1 	       479999
+   Dell XPS 15 			 1 	       479999
+   Dell XPS 15 			 1 	       479999
+
+ ==========================================
+ Sub Aomunt : 		 Rs.2399995.00
+ Tax Aomunt : 		 Rs.1919996.00
+ Total Aomunt : 		 Rs.4319991.00
+ ==========================================

@@ -1,0 +1,22 @@
+	              Welcome To My Mart
+ Bill Number : 4423
+ Customer Name : 
+ Phone Number : 
+ Customer Email : 
+ ==========================================
+ Product 			 Qty 	      Price
+ ==========================================
+   Huawei Mate 50 Pro 			 0 	       0
+   Huawei P30 Pro 			 1 	       65999
+   Huawei P30 Pro 			 1 	       65999
+   Huawei P30 Pro 			 1 	       65999
+   Huawei P30 Pro 			 1 	       65999
+   Huawei P30 Pro 			 1 	       65999
+   Huawei P30 Pro 			 1 	       65999
+   Huawei P30 Pro 			 1 	       65999
+
+ ==========================================
+ Sub Aomunt : 		 Rs.461993.00
+ Tax Aomunt : 		 Rs.395994.00
+ Total Aomunt : 		 Rs.857987.00
+ ==========================================

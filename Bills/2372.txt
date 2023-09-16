@@ -1,0 +1,18 @@
+	              Welcome To My Mart
+ Bill Number : 2372
+ Customer Name : dhjk
+ Phone Number : hkgh
+ Customer Email : hgkhg
+ ==========================================
+ Product 			 Qty 	      Price
+ ==========================================
+   Windows 8.1 			 1 	       250
+   Windows 8.1 			 1 	       250
+   Windows 8.1 			 1 	       250
+   Windows 8.1 			 1 	       250
+
+ ==========================================
+ Sub Aomunt : 		 Rs.1000.00
+ Tax Aomunt : 		 Rs.750.00
+ Total Aomunt : 		 Rs.1750.00
+ ==========================================

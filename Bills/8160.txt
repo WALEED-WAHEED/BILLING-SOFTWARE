@@ -1,0 +1,16 @@
+	              Welcome To My Mart
+ Bill Number : 8160
+ Customer Name : 
+ Phone Number : 
+ Customer Email : 
+ ==========================================
+ Product 			 Qty 	      Price
+ ==========================================
+   iPhone XS Max 			 1 	       350000
+   iPhone XS Max 			 1 	       350000
+
+ ==========================================
+ Sub Aomunt : 		 Rs.700000.00
+ Tax Aomunt : 		 Rs.350000.00
+ Total Aomunt : 		 Rs.1050000.00
+ ==========================================

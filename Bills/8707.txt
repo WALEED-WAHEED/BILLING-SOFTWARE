@@ -1,0 +1,17 @@
+	              Welcome To My Mart
+ Bill Number : 8707
+ Customer Name : Waleed Waheed
+ Phone Number : ****-*******
+ Customer Email : waleedwaheed1081@gmail.com
+ =========================================
+ Product 			 Qty 	      Price
+ =========================================
+   iPhone 14 Pro Max 			 1 	       250000
+   HP Pavilion Aero 13 			 2 	       1399998
+   Windows 11 			 5 	       1750
+
+ =========================================
+ Sub Aomunt : 		 Rs.1651748.00
+ Tax Aomunt : 		 Rs.1651398.00
+ Total Aomunt : 		 Rs.3303146.00
+ =========================================

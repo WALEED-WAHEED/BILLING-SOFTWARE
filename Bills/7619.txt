@@ -1,0 +1,19 @@
+	              Welcome To My Mart
+ Bill Number : 7619
+ Customer Name : dasd
+ Phone Number : sadfsasad
+ Customer Email : sadfa
+ ==========================================
+ Product 			 Qty 	      Price
+ ==========================================
+   Huawei P50 			 1 	       45999
+   Huawei P50 			 1 	       45999
+   Huawei P50 			 1 	       45999
+   Huawei P50 			 1 	       45999
+   Huawei P50 			 1 	       45999
+
+ ==========================================
+ Sub Aomunt : 		 Rs.229995.00
+ Tax Aomunt : 		 Rs.183996.00
+ Total Aomunt : 		 Rs.413991.00
+ ==========================================

@@ -1,0 +1,24 @@
+	              Welcome To My Mart
+ Bill Number : 4719
+ Customer Name : tdrhd
+ Phone Number : sdfg
+ Customer Email : sdfgs
+ ==========================================
+ Product 			 Qty 	      Price
+ ==========================================
+   240 GB 			 1 	       4200
+   240 GB 			 1 	       4200
+   240 GB 			 1 	       4200
+   240 GB 			 1 	       4200
+   240 GB 			 1 	       4200
+   240 GB 			 1 	       4200
+   240 GB 			 1 	       4200
+   240 GB 			 1 	       4200
+   240 GB 			 1 	       4200
+   240 GB 			 1 	       4200
+
+ ==========================================
+ Sub Aomunt : 		 Rs.42000.00
+ Tax Aomunt : 		 Rs.37800.00
+ Total Aomunt : 		 Rs.79800.00
+ ==========================================
